@@ -13,15 +13,14 @@
 
 
 [<img align="left" alt="SeanBerlin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
 [<img align="left" alt="SeanBerlin | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="SeanBerlin | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
-[<img align="left" alt="SeanBerlin | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vim.svg" />][twitter]
+[<img align="left" alt="SeanBerlin | Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vim.svg" />][website]
 
 [linkedin]: https://www.linkedin.com/in/sean-berlin/
 [twitter]: https://twitter.com/SeanBerlin_
 [instagram]: https://www.instagram.com/sean_berlin/
-[website]:
+[website]: https://www.google.com
 
 
 <!--
