@@ -7,6 +7,11 @@
 
 <h2>👨‍💻 Programming Projects</h2>
 
+- <b>Java Program Examples</b>
+  - [Jagged Grid Reader (for grid-based games)](https://github.com/seanberlin724/Jagged-Grid-Reader.git)
+  - [Recursion: Solving a Maze](https://github.com/seanberlin724/Recursion-Solving-a-Maze.git)
+
+
 ### Languages:
 | Java | Python | C# | SQL | OCaml | Bash |
 |------|--------|----|-----|-------|------|
