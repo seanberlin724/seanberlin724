@@ -55,7 +55,7 @@
 [LinkedIn][linkedin] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [Twitter][twitter] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [Instagram][instagram] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[Website][website]
+[Website][website]<b><i>(Coming Soon)</b></i>
 
 [linkedin]: https://www.linkedin.com/in/sean-berlin/
 [twitter]: https://twitter.com/SeanBerlin_
