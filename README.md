@@ -8,9 +8,9 @@
 <h2>👨‍💻 Programming Projects</h2>
 
 ### Languages:
-| Java | Python | SQL | OCaml | Bash |
-|------|---------|-----|-------|------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java"  alt="Java" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="assets/SQL Icon.png" title="SQL" alt="SQL" width="70" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/ocaml/ocaml-original.svg" title="OCaml" alt="OCaml" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="55" height="55"/>| 
+| Java | Python | C# | SQL | OCaml | Bash |
+|------|--------|----|-----|-------|------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java"  alt="Java" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#"  alt="C#" width="55" height="55"/> <img src="assets/SQL Icon.png" title="SQL" alt="SQL" width="70" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/ocaml/ocaml-original.svg" title="OCaml" alt="OCaml" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="55" height="55"/>| 
 
 ### Environments, Testing, Other:
 | Git | CloudLab | Docker | Kubernetes | Jenkins | VirtualBox | GitHub |
