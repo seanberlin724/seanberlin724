@@ -7,14 +7,15 @@
 
 <h2>👨‍💻 Programming Projects Highlights</h2>
 
-- <b>Java Programs</b>
+- <b>Java </b>
   - [Jagged Grid Reader (for grid-based games)](https://github.com/seanberlin724/Jagged-Grid-Reader.git)
   - [Recursion: Solving a Maze](https://github.com/seanberlin724/Recursion-Solving-a-Maze.git)
  
-  - <b>Python Programs</b>
-  - [Software Security Labs Series: Comprehensive Exploitation Techniques](https://github.com/seanberlin724/Software-Security-Labs-Series.git)
+- <b>Python</b>
+    - [Software Security Labs Series: Comprehensive Exploitation Techniques](https://github.com/seanberlin724/Software-Security-Labs-Series.git)
  
-  - 
+- <b>C#</b>
+    - [Towers of Hanoi ](https://github.com/seanberlin724/C-Sharp-Projects/tree/main/Towers%20of%20Hanoi) 
 
 
 ### Languages:
