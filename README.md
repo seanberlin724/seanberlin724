@@ -5,11 +5,16 @@
 - <b>Project 1</b>
   
 
-<h2>👨‍💻 Programming Projects</h2>
+<h2>👨‍💻 Programming Projects Highlights</h2>
 
-- <b>Java Program Examples</b>
+- <b>Java Programs</b>
   - [Jagged Grid Reader (for grid-based games)](https://github.com/seanberlin724/Jagged-Grid-Reader.git)
   - [Recursion: Solving a Maze](https://github.com/seanberlin724/Recursion-Solving-a-Maze.git)
+ 
+  - <b>Python Programs</b>
+  - [Software Security Labs Series: Comprehensive Exploitation Techniques](https://github.com/seanberlin724/Software-Security-Labs-Series.git)
+ 
+  - 
 
 
 ### Languages:
@@ -31,6 +36,12 @@
 | Metasploit | Wireshark | Burpsuite | Netcat | Nmap |
 |----------|----------|----------|----------|----------|
 |<img src="assets/meta.png" alt="msf" width="85" height="55" />|<img src="assets/Wireshark_icon.svg.png" alt="wsh" width="55" height="55" />|<img src="assets/burp.svg" alt="burp" width="85" height="55" />|<img src="assets/netcat_logo_shadow.svg" alt="netcat" width="55" height="55" />|<img src="assets/nmap-logo.svg" alt="nmap" width="55" height="55" />|
+
+## Certifications
+<div>
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+</div>
 
 <h2> 🤳 Connect with me:</h2>
 
