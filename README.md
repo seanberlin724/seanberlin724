@@ -15,7 +15,7 @@
     - [Software Security Labs Series: Comprehensive Exploitation Techniques](https://github.com/seanberlin724/Software-Security-Labs-Series.git)
  
 - <b>C#</b>
-    - [Towers of Hanoi ](https://github.com/seanberlin724/C-Sharp-Projects/tree/main/Towers%20of%20Hanoi) 
+    - [Towers of Hanoi: Interactive Game ](https://github.com/seanberlin724/C-Sharp-Projects/blob/main/Towers%20of%20Hanoi/README.md) 
 
 
 ### Languages:
