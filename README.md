@@ -16,7 +16,10 @@
     - [Dynamic Heuristic Analysis Tool for Ransomware Detection](https://github.com/seanberlin724/Malware-Analysis/tree/main/Lab%205%3A%20Dynamic%20Heuristic%20Analysis%20Tool%20Development%20for%20Ransomware%20Detection)
  
 - <b>C#</b>
-    - [Towers of Hanoi: Interactive Game ](https://github.com/seanberlin724/C-Sharp-Projects/blob/main/Towers%20of%20Hanoi/README.md) 
+    - [Towers of Hanoi: Interactive Game ](https://github.com/seanberlin724/C-Sharp-Projects/blob/main/Towers%20of%20Hanoi/README.md)
+ 
+- <b>Bash</b>
+    - [Shell Script Roster Program ](https://github.com/seanberlin724/Bash-Scripting/tree/main/Student%20Roster)
 
 
 ### Languages:
