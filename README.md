@@ -2,7 +2,13 @@
 
 <h2>🔒 Cybersecurity Projects:</h2>
 
-- <b>Project 1</b>
+- <b>Malware Analysis </b>
+  - [Analysis of Zeus: Trojan Malware](https://github.com/seanberlin724/Malware-Analysis/tree/main/Final%20Project%3A%20Malware%20Analysis%20of%20Zeus)
+
+- <b>Exploit Programs </b>
+  - [Return-Oriented Programming (ROP)](https://github.com/seanberlin724/Software-Security-Labs-Series/tree/main/Lab%203%3A%20Return-Oriented%20Programming%20(ROP)%20Exploitation)
+  - [Multi-Stage Attack](https://github.com/seanberlin724/Software-Security-Labs-Series/tree/main/Lab%204%3A%20Multi-Stage%20Exploits)
+  - [CTF Remote Server](https://github.com/seanberlin724/Software-Security-Labs-Series/tree/main/Final%20Project%3A%20CTF)
   
 
 <h2>👨‍💻 Programming Projects Highlights</h2>
