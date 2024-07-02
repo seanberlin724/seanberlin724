@@ -1,6 +1,6 @@
 <h1>Hi, I'm Sean! <br/><a href="https://github.com/seanberlin724">Aspiring Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/sean-berlin/">Programmer</a></h1>
 
-<h2>🔒 Cybersecurity Projects:</h2>
+<h2>🔒 Cybersecurity Projects</h2>
 
 - <b>Malware Analysis </b>
   - [Analysis of Zeus: Trojan Malware](https://github.com/seanberlin724/Malware-Analysis/tree/main/Final%20Project%3A%20Malware%20Analysis%20of%20Zeus)
