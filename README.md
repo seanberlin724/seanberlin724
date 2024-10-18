@@ -2,6 +2,9 @@
 
 <h2>🔒 Cybersecurity Projects Highlights</h2>
 
+- <b>Microsoft Azure </b>
+  - [Personal SOC: Azure and Microsoft Sentinel](https://github.com/seanberlin724/Personal-Security-Operations-Center-SOC-with-Azure-and-Microsoft-Sentinel)
+
 - <b>Malware Analysis </b>
   - [Analysis of Zeus: Trojan Malware](https://github.com/seanberlin724/Malware-Analysis/tree/main/Final%20Project%3A%20Malware%20Analysis%20of%20Zeus)
 
