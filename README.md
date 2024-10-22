@@ -2,7 +2,7 @@
 
 <h2>🔒 Cybersecurity Projects Highlights</h2>
 
-- <b>Microsoft Azure </b>
+- <b>IT Security and Management Labs </b>
   - [Personal SOC: Azure and Microsoft Sentinel](https://github.com/seanberlin724/Personal-Security-Operations-Center-SOC-with-Azure-and-Microsoft-Sentinel)
   - [Hands-On Active Directory: Deployment and Security Monitoring](https://github.com/seanberlin724/Hands-On-Active-Directory-Deployment-and-Security-Monitoring-Lab)
 
