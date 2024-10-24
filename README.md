@@ -60,6 +60,12 @@
 <img src="https://img.shields.io/badge/NCAE--C-Certified-grey?style=for-the-badge&labelColor=006400" />
 </div>
 
+## SIEM
+<div>
+<img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+</div>
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="SeanBerlin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
