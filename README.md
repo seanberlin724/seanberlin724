@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sean! <br/><a href="https://github.com/seanberlin724">Aspiring Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/sean-berlin/">Programmer</a></h1>
+<h1>Hi, I'm Sean! <br/><a href="https://github.com/seanberlin724">Cybersecurity Enthusiast</a> | <a href="https://www.linkedin.com/in/sean-berlin/">Programmer</a></h1>
 
 <h2>🔒 Cybersecurity Projects Highlights</h2>
 
